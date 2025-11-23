@@ -1,0 +1,697 @@
+{
+  "recipe_collection": {
+    "title": "Recipe Collection - UK Measurements",
+    "description": "All recipes have been converted from the original sources with measurements in UK units (grams, millilitres, Celsius).",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Red Cabbage Slaw",
+        "source": "A Couple Cooks",
+        "prep_time": "15 minutes",
+        "cook_time": "0 minutes",
+        "servings": 8,
+        "dietary_info": ["vegetarian", "gluten-free", "vegan (with vegan mayo)", "dairy-free"],
+        "ingredients": [
+          {
+            "item": "red cabbage",
+            "amount": "475g",
+            "notes": "thinly sliced (1 medium cabbage)"
+          },
+          {
+            "item": "red onion",
+            "amount": "¼",
+            "notes": "thinly sliced into slivers"
+          },
+          {
+            "item": "mayonnaise",
+            "amount": "120ml",
+            "notes": "or vegan mayo"
+          },
+          {
+            "item": "apple cider vinegar",
+            "amount": "2 tablespoons"
+          },
+          {
+            "item": "sugar or maple syrup",
+            "amount": "2 tablespoons"
+          },
+          {
+            "item": "dried dill",
+            "amount": "½ teaspoon"
+          },
+          {
+            "item": "celery seeds",
+            "amount": "½ teaspoon"
+          },
+          {
+            "item": "kosher salt",
+            "amount": "1 teaspoon"
+          },
+          {
+            "item": "black pepper",
+            "amount": "to taste",
+            "notes": "fresh ground"
+          }
+        ],
+        "method": [
+          "Prepare vegetables: Thinly slice the red cabbage and cut the red onion into thin slivers.",
+          "Make dressing: In a large bowl, whisk together mayonnaise, apple cider vinegar, sugar, dried dill, celery seeds, salt, and black pepper.",
+          "Combine: Add the sliced cabbage and onion to the dressing and toss to combine thoroughly.",
+          "Serve: Can be served immediately or refrigerated until ready to serve."
+        ],
+        "notes": [
+          "Storage: Keeps in the fridge for up to 4 days in an airtight container",
+          "Make-ahead: The slaw actually improves after sitting as flavours meld together",
+          "Texture tip: If liquid accumulates after a day or two, simply drain it off"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Homemade Ciabatta Garlic Bread",
+        "source": "The Mediterranean Dish",
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "30 minutes",
+        "oven_temp": "200°C (400°F)",
+        "dietary_info": ["vegetarian", "can be made vegan"],
+        "ingredients": [
+          {
+            "item": "ciabatta bread",
+            "amount": "450g",
+            "notes": "1 pound loaf"
+          },
+          {
+            "item": "fresh Italian parsley",
+            "amount": "60g"
+          },
+          {
+            "item": "dried rosemary",
+            "amount": "1 teaspoon"
+          },
+          {
+            "item": "dried oregano",
+            "amount": "1 teaspoon"
+          },
+          {
+            "item": "garlic cloves",
+            "amount": "4-5",
+            "notes": "peeled"
+          },
+          {
+            "item": "extra virgin olive oil",
+            "amount": "80ml"
+          },
+          {
+            "item": "Parmesan cheese",
+            "amount": "50g",
+            "notes": "grated or shredded"
+          },
+          {
+            "item": "kosher salt and black pepper",
+            "amount": "to taste"
+          }
+        ],
+        "method": [
+          "Preheat oven to 200°C (400°F).",
+          "Make herb oil: Add garlic, rosemary, oregano, and parsley to a small food processor. Blend while slowly drizzling in the olive oil through the top opening. Season with salt and pepper.",
+          "Prepare bread: Place ciabatta flat on cutting board and slice horizontally in half. Spread the herb-garlic oil evenly on both cut sides. Put halves back together.",
+          "First bake: Line a large baking tray with foil. Place bread on tray and cover completely with another sheet of foil, crimping edges tightly. Bake for 10 minutes.",
+          "Second bake: Remove from oven and uncover. Separate bread halves and place cut-side up on the tray. Sprinkle Parmesan evenly over both halves. Return to oven for another 10 minutes until edges are golden and cheese is lightly browned.",
+          "Serve: Cut into 2.5cm (1-inch) slices and serve immediately."
+        ],
+        "tips": [
+          "Foil wrapping is crucial - it prevents garlic burning while creating a crispy outside and chewy inside",
+          "Use fresh garlic - avoid pre-minced jarred garlic which can be bitter",
+          "Freshly grate Parmesan for best flavour and texture",
+          "Alternative breads: French baguette or other rustic crusty breads work well"
+        ],
+        "storage": {
+          "room_temp": "Wrap in foil, keeps for 2 days (don't refrigerate)",
+          "freezer": "Wrap in foil, store in freezer bag for up to 3 months",
+          "reheat": "Bake at 190°C (375°F) until hot and crispy"
+        },
+        "variations": [
+          "Vegan version: Omit cheese or substitute with 1-2 tablespoons nutritional yeast"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Financiers (French Tea Cakes)",
+        "source": "Preppy Kitchen",
+        "prep_time": "10 minutes",
+        "cook_time": "15-20 minutes",
+        "cooling_time": "30 minutes",
+        "oven_temp": "180°C (350°F)",
+        "yield": "Approximately 36 mini financiers",
+        "notes_scaling": "Recipe scaled x1.5 for 6 egg whites",
+        "ingredients": [
+          {
+            "item": "unsalted butter",
+            "amount": "170g",
+            "notes": "for browning"
+          },
+          {
+            "item": "icing sugar",
+            "amount": "225g",
+            "notes": "powdered sugar"
+          },
+          {
+            "item": "almond flour",
+            "amount": "188g"
+          },
+          {
+            "item": "plain flour",
+            "amount": "68g",
+            "notes": "all-purpose flour"
+          },
+          {
+            "item": "salt",
+            "amount": "pinch"
+          },
+          {
+            "item": "egg whites",
+            "amount": "6 large",
+            "notes": "at room temperature"
+          },
+          {
+            "item": "vanilla extract",
+            "amount": "3 teaspoons (1 tablespoon)"
+          }
+        ],
+        "equipment": [
+          "Mini muffin tin(s) - you'll need 1.5 batches worth",
+          "Mixing bowl",
+          "Piping bag (optional, but helpful)"
+        ],
+        "method": [
+          "Brown the butter: Melt butter in a small saucepan over medium heat. Continue cooking until it boils, turns golden brown, and smells nutty (about 8 minutes). Pour into a bowl and cool for 30 minutes. Keep all the dark bits - that's where the flavour is!",
+          "Prepare tin: Preheat oven to 180°C (350°F). Lightly grease the wells of a mini muffin tin with softened butter.",
+          "Mix dry ingredients: In a large bowl, whisk together icing sugar, almond flour, plain flour, and salt.",
+          "Combine: Add the egg whites, vanilla extract, and cooled brown butter to the dry ingredients. Whisk until just combined. The batter will be thick.",
+          "Fill tins: Divide batter among the greased muffin cups, filling about three-quarters full. A piping bag makes this easier.",
+          "Bake: Bake for 15-20 minutes until edges are golden brown and a toothpick inserted in the centre comes out clean. Watch carefully near the end to avoid overbaking.",
+          "Cool: Let cool in the tin for 10 minutes, then transfer to a wire rack to cool completely."
+        ],
+        "tips": [
+          "Egg whites: Separate eggs when cold (easier), but use at room temperature",
+          "Don't overbake - this is the most common mistake leading to dry financiers",
+          "Measure flour accurately - use scales for best results",
+          "Optional flavours: Add a scant ½ teaspoon almond, lemon, or orange extract with the vanilla, or fold in citrus zest"
+        ],
+        "topping_ideas": [
+          "raspberries",
+          "blueberries",
+          "cherries",
+          "strawberries",
+          "hazelnuts",
+          "pecans",
+          "pistachios",
+          "walnuts",
+          "citrus zest"
+        ],
+        "storage": {
+          "room_temp": "Store in an airtight container for up to 2 days for crisp exterior (up to 1 week but texture softens)",
+          "make_ahead": "Batter can be stored in the fridge for up to 1 week",
+          "freezing": "Not recommended as texture becomes softer upon thawing"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Torta della Nonna (Italian Custard Tart)",
+        "source": "Fatto in Casa da Benedetta",
+        "oven_temp": "180°C (fan 160°C)",
+        "tin_size": "28cm round",
+        "ingredients": {
+          "pastry_cream": [
+            {
+              "item": "egg yolks",
+              "amount": "see recipe"
+            },
+            {
+              "item": "sugar",
+              "amount": "see recipe"
+            },
+            {
+              "item": "plain flour",
+              "amount": "see recipe"
+            },
+            {
+              "item": "milk",
+              "amount": "see recipe",
+              "notes": "can substitute with plant milk"
+            },
+            {
+              "item": "lemon zest",
+              "amount": "for flavouring"
+            }
+          ],
+          "pastry": [
+            {
+              "item": "eggs",
+              "amount": "3"
+            },
+            {
+              "item": "sugar",
+              "amount": "see recipe"
+            },
+            {
+              "item": "sunflower oil",
+              "amount": "see recipe",
+              "notes": "or 140g butter as alternative"
+            },
+            {
+              "item": "vanilla-flavoured baking powder",
+              "amount": "½ packet"
+            },
+            {
+              "item": "plain flour",
+              "amount": "see recipe"
+            }
+          ],
+          "decoration": [
+            {
+              "item": "pine nuts",
+              "amount": "to taste"
+            },
+            {
+              "item": "icing sugar",
+              "amount": "for dusting"
+            }
+          ]
+        },
+        "method": {
+          "pastry_cream": [
+            "Make the custard using egg yolks, sugar, flour and hot milk flavoured with lemon",
+            "Cook on the stove for about 5 minutes, stirring continuously until thickened",
+            "Cover with cling film directly on the surface to prevent a skin forming",
+            "Allow to cool"
+          ],
+          "pastry": [
+            "Beat 3 eggs with sugar and sunflower oil",
+            "Add vanilla baking powder",
+            "Gradually mix in flour until dough becomes too thick to stir",
+            "Turn onto work surface and knead by hand until smooth, elastic and no longer sticky",
+            "Divide dough in half"
+          ],
+          "assembly": [
+            "Oil and flour a 28cm round tin",
+            "Roll out half the pastry on floured parchment paper and place in the prepared tin as the base",
+            "Pour the cooled pastry cream over the base",
+            "Roll out remaining pastry and place on top",
+            "Decorate with pine nuts",
+            "Bake until golden"
+          ],
+          "finishing": [
+            "Allow to cool completely",
+            "Dust generously with icing sugar before serving"
+          ]
+        },
+        "notes": [
+          "Can use butter (140g) instead of oil - if using butter, refrigerate dough wrapped in cling film for 30 minutes before rolling",
+          "Can use plant milk instead of dairy milk",
+          "Can substitute pine nuts with other nuts like almonds",
+          "Fan oven: bake at 160°C",
+          "Store under a glass dome or cake cover in a cool, dry place for several days"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "My Best Grilled Cheese Sandwich",
+        "source": "RecipeTin Eats",
+        "cook_time": "7 minutes",
+        "servings": 1,
+        "ingredients": [
+          {
+            "item": "sourdough bread",
+            "amount": "2 slices",
+            "notes": "1.3-1.5cm thick (½-⅝ inch)"
+          },
+          {
+            "item": "salted butter",
+            "amount": "30g",
+            "notes": "for spreading on bread, or unsalted butter plus a pinch of salt"
+          },
+          {
+            "item": "vintage cheddar cheese or gruyère",
+            "amount": "⅓ cup (heaped), approximately 35-40g",
+            "notes": "freshly grated"
+          },
+          {
+            "item": "mozzarella",
+            "amount": "30g (about ⅓ cup)",
+            "notes": "freshly grated"
+          }
+        ],
+        "method": [
+          "Butter the bread: Spread butter on BOTH sides of each slice of bread (yes, all 4 sides!).",
+          "Light toast: Heat a heavy-based frying pan over medium-low heat (no oil or butter needed). Place both slices of bread in the pan and lightly toast for 1 minute to warm through and create a light crust.",
+          "Add cheese: Flip one slice of bread, then pile on the cheddar cheese followed by the mozzarella. Place the other slice of bread on top with the hot toasted side in contact with the cheese.",
+          "Cook first side: Cook for 3 minutes until the bread is evenly golden and crisp, pressing down lightly with a spatula occasionally. If browning too quickly, remove from heat briefly and lower the temperature.",
+          "Flip and finish: Turn the sandwich over and cook the other side for 3 minutes until golden and the cheese is melted.",
+          "Serve: Transfer to a cutting board, cut in half decisively, admire the cheese pull, and devour immediately!"
+        ],
+        "golden_rules": [
+          "Use TWO types of cheese - mozzarella for stretch and melting quality, plus a flavoured cheese like vintage cheddar or gruyère",
+          "Cook in a pan on the stove - NOT a sandwich press! This gives you a superior golden, buttery crust"
+        ],
+        "tips": [
+          "Use sourdough instead of ordinary sandwich bread",
+          "Freshly grate your own cheese - pre-shredded cheese has anti-caking agents that prevent proper melting",
+          "Use salted butter - the salt makes all the difference!",
+          "Medium-low heat is key - gives time for cheese to melt without burning the bread",
+          "Heavy-based pan works best for even heat distribution"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "The Best Cinnamon Rolls",
+        "source": "Ambitious Kitchen",
+        "prep_time": "20 minutes",
+        "rise_time": "2-2.5 hours",
+        "cook_time": "20-25 minutes",
+        "total_time": "~3 hours",
+        "yield": "9 large cinnamon rolls",
+        "oven_temp": "180°C (350°F)",
+        "ingredients": {
+          "dough": [
+            {
+              "item": "milk",
+              "amount": "180ml",
+              "notes": "whole or 2% preferred"
+            },
+            {
+              "item": "quick-rise (instant) yeast",
+              "amount": "2¼ teaspoons (7g)",
+              "notes": "one packet"
+            },
+            {
+              "item": "granulated sugar",
+              "amount": "50g"
+            },
+            {
+              "item": "salted butter",
+              "amount": "57g (4 tablespoons)",
+              "notes": "melted and cooled"
+            },
+            {
+              "item": "egg plus egg yolk",
+              "amount": "1 large egg plus 1 large egg yolk",
+              "notes": "at room temperature"
+            },
+            {
+              "item": "bread flour",
+              "amount": "360g, plus extra as needed"
+            },
+            {
+              "item": "salt",
+              "amount": "¾ teaspoon"
+            },
+            {
+              "item": "extra-virgin olive oil",
+              "amount": "for greasing bowl"
+            }
+          ],
+          "filling": [
+            {
+              "item": "salted butter",
+              "amount": "57g (4 tablespoons)",
+              "notes": "softened"
+            },
+            {
+              "item": "dark brown sugar",
+              "amount": "142g (⅔ cup)",
+              "notes": "packed"
+            },
+            {
+              "item": "ground cinnamon",
+              "amount": "1½ tablespoons"
+            }
+          ],
+          "frosting": [
+            {
+              "item": "cream cheese",
+              "amount": "112g (4 oz)",
+              "notes": "softened"
+            },
+            {
+              "item": "icing sugar",
+              "amount": "85g (¾ cup)"
+            },
+            {
+              "item": "salted butter",
+              "amount": "3 tablespoons",
+              "notes": "softened"
+            },
+            {
+              "item": "vanilla extract",
+              "amount": "½ teaspoon"
+            }
+          ]
+        },
+        "equipment": [
+          "Stand mixer with dough hook (or mix by hand)",
+          "Rolling pin",
+          "Serrated knife or dental floss",
+          "23cm (9-inch) square or round baking tin"
+        ],
+        "method": {
+          "prepare_dough": [
+            "Warm milk: Microwave milk for 45 seconds to 1 minute until it reaches 46°C (115°F) - should feel like warm bath water.",
+            "Mix wet ingredients: Place warmed milk in stand mixer bowl with paddle attachment. Sprinkle yeast on top. Add sugar, melted butter, egg, and egg yolk. Mix on medium speed for 30 seconds until well combined.",
+            "Add dry ingredients: Remove bowl from mixer and use a wooden spoon to stir in flour and salt until dough begins to form.",
+            "Knead: Attach dough hook. Mix on medium speed for 8-10 minutes until dough is soft and slightly sticky. If too sticky, add 1-3 tablespoons more flour. (Alternatively, knead by hand for 8-10 minutes on floured surface.)",
+            "First rise: Lightly grease a large bowl with olive oil. Place dough ball in bowl, cover with cling film and a warm towel. Let rise until doubled, 1-1½ hours."
+          ],
+          "assemble": [
+            "Roll out: Generously flour work surface. Roll dough into a 25cm × 36cm (10\" × 14\") rectangle.",
+            "Add filling: Spread softened butter over dough, leaving 6mm (¼-inch) margin at one short edge. Mix brown sugar and cinnamon in small bowl. Sprinkle over butter and gently rub into the butter.",
+            "Roll up: Starting from short side without margin, tightly roll up dough. Seal edge by pinching dough. Place seam-side down. Cut 1.3cm (½-inch) off each end. Gently push ends inward to compact slightly.",
+            "Slice: Using dental floss or serrated knife, cut into 9 slices (about 2.5cm/1-inch each).",
+            "Second rise: Line 23cm (9-inch) tin with baking paper. Place rolls in tin. Cover with cling film and towel. Let rise until doubled and touching, 45 minutes to 1 hour."
+          ],
+          "bake": [
+            "Preheat oven to 180°C (350°F).",
+            "Bake: Remove cling film and towel. Bake for 20-25 minutes until golden brown on edges. Don't overbake - this keeps them soft in the middle. Cool for 10 minutes."
+          ],
+          "frosting": [
+            "Make frosting: Beat cream cheese, icing sugar, butter, and vanilla on low speed for 30 seconds, then medium-high until smooth and fluffy, 1-2 minutes.",
+            "Frost: Spread frosting over warm rolls and serve."
+          ]
+        },
+        "tips": [
+          "Don't overheat milk: Should be 46-49°C (105-115°F). If too hot, yeast will die.",
+          "Use room temperature butter for filling: Melted butter will leak out",
+          "Rub brown sugar into butter: Ensures it's well combined",
+          "Use bread flour: This is essential for fluffy, soft rolls - all-purpose won't give same results",
+          "Flour work surface and rolling pin to prevent sticking"
+        ],
+        "make_ahead": "After first rise and cutting rolls, place in lined tin, cover with cling film, and refrigerate overnight. In morning, bring to room temperature (30-45 minutes), then bake as directed.",
+        "storage": {
+          "room_temp": "Cover and store for 1-2 hours, then refrigerate",
+          "refrigerator": "Up to 5 days in airtight container",
+          "reheat": "Microwave for 15-20 seconds until warm",
+          "freezer": "Freeze after baking (before icing). Defrost, warm in oven at 180°C for 10-15 minutes, then ice"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Overnight Pizza Dough",
+        "source": "Mom's Dish",
+        "prep_time": "25 minutes",
+        "rise_time": "Overnight (8-24 hours)",
+        "yield": "2 large pizzas or 6 personal-sized pizzas",
+        "use_within": "3 days",
+        "ingredients": [
+          {
+            "item": "all-purpose flour",
+            "amount": "540g",
+            "notes": "plain flour"
+          },
+          {
+            "item": "salt",
+            "amount": "½ tablespoon"
+          },
+          {
+            "item": "active dry yeast",
+            "amount": "1 teaspoon"
+          },
+          {
+            "item": "water",
+            "amount": "415ml",
+            "notes": "very cold"
+          },
+          {
+            "item": "extra virgin olive oil",
+            "amount": "60ml (¼ cup)"
+          },
+          {
+            "item": "whole wheat flour",
+            "amount": "for dusting",
+            "notes": "or regular flour"
+          }
+        ],
+        "method": [
+          "Mix dry ingredients: In a large bowl, combine the flour, salt, and yeast.",
+          "Add water: In small portions, add the cold water to the flour mixture. Stir with a wooden spoon until well combined.",
+          "Add olive oil: Add olive oil to the mixture and stir to combine.",
+          "Knead: Dust a flat work surface with whole wheat flour (or plain flour). Knead the dough with your hands until it turns elastic, approximately 8-10 minutes. Alternatively, use a stand mixer with dough hook on medium-low speed for 7-8 minutes.",
+          "Form ball: Shape the dough into a ball.",
+          "Overnight rise: Place the dough in a bowl and cover tightly with cling film. Leave to rise overnight in the refrigerator. Use within 3 days."
+        ],
+        "tips": [
+          "Use very cold water: This is crucial for slowing the fermentation process during the overnight rise in the fridge",
+          "Use a stand mixer if available: Makes kneading much easier and faster (7-8 minutes on speed 2)",
+          "Dough texture: The dough should be slightly sticky but come together into a smooth, elastic ball. If too wet, add flour gradually",
+          "Use high-quality olive oil: Opt for 100% pure extra virgin olive oil for better flavour",
+          "Use high-quality flour: Higher protein content flour works best for better texture",
+          "Don't tightly pack flour: Loosely spoon flour into measuring cups and level off to avoid using too much"
+        ],
+        "how_to_use": [
+          "Rest at room temperature: Remove from fridge and let sit for 30 minutes before using",
+          "Divide: Cut into portions (2 or 3 pieces depending on pizza size desired)",
+          "Shape: Use your hands to stretch the dough into desired shape - NEVER use a rolling pin as it removes air and prevents bubbling",
+          "Top and bake: Add your toppings and bake at 220°C (425°F) for about 12 minutes or until golden brown"
+        ],
+        "storage": {
+          "refrigerator": "Keep covered in bowl with cling film for up to 3 days",
+          "freezer": "Roll into a ball, wrap tightly in cling film, freeze for up to 3 months. Thaw overnight in fridge before using",
+          "best_results": "Dough develops better flavour after 2 days in the fridge"
+        },
+        "notes": [
+          "The slow, cold fermentation creates a thin, delicate Northern Italian-style crust",
+          "Longer fermentation (24-48 hours) develops more flavour and creates a more airy, open crumb",
+          "The dough will rise slowly in the fridge - it may not double like traditional dough, and that's normal",
+          "If dough seems very wet during kneading, this is a higher-hydration dough. Add flour gradually as needed, but don't add too much or crust will be tough"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Classic New York Cheesecake",
+        "source": "Once Upon a Chef",
+        "prep_time": "20 minutes",
+        "bake_time": "1 hour 30 minutes - 1 hour 45 minutes",
+        "cooling_time": "45 minutes + 8 hours chilling",
+        "servings": 10,
+        "oven_temp": "190°C (375°F) for crust, then 160°C (325°F) for cheesecake",
+        "ingredients": {
+          "crust": [
+            {
+              "item": "graham cracker crumbs",
+              "amount": "150g",
+              "notes": "from 12 whole crackers, or use digestive biscuits"
+            },
+            {
+              "item": "unsalted butter",
+              "amount": "70g (5 tablespoons)",
+              "notes": "melted"
+            },
+            {
+              "item": "granulated sugar",
+              "amount": "2 tablespoons"
+            },
+            {
+              "item": "salt",
+              "amount": "⅛ teaspoon"
+            }
+          ],
+          "filling": [
+            {
+              "item": "cream cheese",
+              "amount": "900g (four 225g/8oz blocks)",
+              "notes": "at room temperature, use good quality like Philadelphia"
+            },
+            {
+              "item": "granulated sugar",
+              "amount": "400g (2 cups)"
+            },
+            {
+              "item": "plain flour",
+              "amount": "3 tablespoons"
+            },
+            {
+              "item": "vanilla extract",
+              "amount": "4 teaspoons"
+            },
+            {
+              "item": "lemon zest",
+              "amount": "1 teaspoon packed",
+              "notes": "from 1 lemon"
+            },
+            {
+              "item": "fresh lemon juice",
+              "amount": "2 teaspoons",
+              "notes": "from 1 lemon"
+            },
+            {
+              "item": "salt",
+              "amount": "¼ teaspoon"
+            },
+            {
+              "item": "eggs",
+              "amount": "6 large"
+            },
+            {
+              "item": "sour cream",
+              "amount": "120ml (½ cup)"
+            }
+          ]
+        },
+        "equipment": [
+          "23cm or 25cm (9 or 10-inch) springform tin",
+          "Heavy-duty foil (45cm/18-inch wide)",
+          "Electric mixer",
+          "Large roasting tin for water bath"
+        ],
+        "method": {
+          "prepare_crust": [
+            "Preheat oven to 190°C (375°F), rack in lower middle position.",
+            "Wrap tin: Wrap springform tin with TWO large pieces of heavy-duty foil, covering underside and extending to the top with no seams on bottom or sides. Spray inside with nonstick cooking spray.",
+            "Make crust: In a medium bowl, combine graham cracker crumbs, melted butter, sugar, and salt. Stir until well combined.",
+            "Bake crust: Press crumbs into an even layer on bottom of tin. Bake for 10 minutes until set. Remove and set aside.",
+            "Reduce oven temperature to 160°C (325°F). Put kettle on to boil water."
+          ],
+          "make_filling": [
+            "Beat cream cheese mixture: In electric mixer with paddle attachment, beat cream cheese, sugar, and flour on medium speed until just smooth, about 1 minute. Scrape bowl to ensure evenly combined.",
+            "Add flavourings: Add vanilla, lemon zest, lemon juice, and salt; beat on low speed until just combined.",
+            "Add eggs: Add eggs one at a time on low speed, mixing until incorporated and scraping bowl as necessary.",
+            "Add sour cream: Mix in sour cream until batter is uniform. Don't over-mix."
+          ],
+          "bake": [
+            "Assemble: Pour batter over baked crust. Place springform tin in large roasting tin.",
+            "Create water bath: Pour boiling water into roasting tin to come about 2.5cm (1 inch) up sides of springform tin.",
+            "Bake: Bake for 1 hour 30 minutes to 1 hour 45 minutes, until cake is just set. It should not look liquid but will wobble slightly when gently nudged. If top looks too golden near end, cover loosely with foil."
+          ],
+          "cool_and_chill": [
+            "Cool in water bath: Remove roasting tin from oven and place on wire rack. Cool cheesecake in water bath until water is just warm, about 45 minutes.",
+            "Remove from bath: Remove springform tin from water bath and discard foil. If necessary, run thin knife around edge to prevent sticking and cracking.",
+            "Refrigerate: Cover with cling film and refrigerate for at least 8 hours or overnight."
+          ],
+          "serve": [
+            "Remove sides of springform tin. Serve from base or transfer to serving plate using large spatulas. Slice with sharp knife, wiping clean between slices."
+          ]
+        },
+        "tips": [
+          "Room temperature cream cheese is essential - prevents lumps",
+          "Don't over-mix - mix until just combined to prevent incorporating too much air",
+          "Flour is the secret - helps prevent cracking and makes filling lighter",
+          "Water bath is crucial - ensures even, gentle baking and prevents cracks",
+          "Use heavy-duty 45cm (18-inch) foil - NO seams on bottom or sides or water will leak in",
+          "Don't overbake - cake should wobble slightly in centre when done",
+          "Cool gradually - in water bath first, then room temperature, then fridge"
+        ],
+        "storage": {
+          "make_ahead": "Can be made and kept covered in fridge for up to 2 days",
+          "freezer": "Freeze for up to 3 months. Wrap tightly after briefly freezing unwrapped to firm up. Thaw overnight in fridge."
+        },
+        "serving_suggestions": [
+          "Serve with berry sauce on the side"
+        ],
+        "alternative_wrapping": [
+          "Place springform tin inside a larger cake tin to avoid using foil",
+          "Purchase a silicone wrap designed for springform tins",
+          "If condensation gets in despite wrapping, remove sides of tin before refrigerating to let crust dry out"
+        ]
+      }
+    ]
+  }
+}
