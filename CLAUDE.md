@@ -9,7 +9,7 @@ A static recipe website using vanilla HTML, CSS, and JavaScript, designed for Gi
 ## Architecture
 
 ### Data Structure
-- **recipes_json.json**: Single source of truth for all recipe data
+- **recipes.json**: Single source of truth for all recipe data
 - Recipes are stored in a nested JSON structure under `recipe_collection.recipes[]`
 - Each recipe has a unique `id` field used for navigation
 - Recipe schema supports both simple arrays and nested objects for ingredients/method sections (e.g., separate sections for dough, filling, frosting)
@@ -30,7 +30,7 @@ A static recipe website using vanilla HTML, CSS, and JavaScript, designed for Gi
 ## Adding New Recipes
 
 ### Manual Addition
-Edit `recipes_json.json` and add a new recipe object to the `recipes` array. Ensure:
+Edit `recipes.json` and add a new recipe object to the `recipes` array. Ensure:
 - Unique `id` (increment from highest existing ID)
 - Required fields: `id`, `name`
 - Common optional fields: `source`, `prep_time`, `cook_time`, `ingredients`, `method`, `dietary_info`
@@ -79,7 +79,7 @@ Responsive breakpoint at 768px for mobile layout.
 
 ## Key Files
 
-- `recipes_json.json` - All recipe data
+- `recipes.json` - All recipe data
 - `index.html` + `app.js` - Landing page
 - `recipe.html` + `recipe.js` - Recipe detail page
 - `styles.css` - All styles

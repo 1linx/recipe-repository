@@ -9,7 +9,7 @@ async function loadRecipe() {
     }
 
     try {
-        const response = await fetch('recipes_json.json');
+        const response = await fetch('recipes.json');
         const data = await response.json();
         const recipe = data.recipe_collection.recipes.find(r => r.id === recipeId);
 

@@ -1,7 +1,7 @@
 // Load and display recipes on the landing page
 async function loadRecipes() {
     try {
-        const response = await fetch('recipes_json.json');
+        const response = await fetch('recipes.json');
         const data = await response.json();
         const recipes = data.recipe_collection.recipes;
 

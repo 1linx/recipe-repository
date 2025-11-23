@@ -35,7 +35,7 @@ A simple, clean recipe website with UK measurements. Built with vanilla HTML, CS
 
 ## Adding New Recipes
 
-To add new recipes, edit the `recipes_json.json` file. Each recipe should follow this structure:
+To add new recipes, edit the `recipes.json` file. Each recipe should follow this structure:
 
 ```json
 {
