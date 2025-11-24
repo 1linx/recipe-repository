@@ -699,6 +699,85 @@
           "Purchase a silicone wrap designed for springform tins",
           "If condensation gets in despite wrapping, remove sides of tin before refrigerating to let crust dry out"
         ]
+      },
+      {
+        "id": 9,
+        "name": "Chess Squares",
+        "source": "Kevin & Amanda",
+        "source_link": "https://www.kevinandamanda.com/chess-squares/",
+        "prep_time": "15 minutes",
+        "cook_time": "30-35 minutes",
+        "total_time": "45-50 minutes (plus cooling time)",
+        "servings": "24 squares",
+        "oven_temp": "180°C (350°F)",
+        "dietary_info": ["contains dairy", "contains eggs", "contains gluten"],
+        "ingredients": [
+          {
+            "item": "yellow cake mix",
+            "amount": "427g (1 packet, typically 15.25 oz)",
+            "notes": "for the crust"
+          },
+          {
+            "item": "large egg",
+            "amount": "1",
+            "notes": "for the crust"
+          },
+          {
+            "item": "butter, melted",
+            "amount": "114g (1/2 cup)",
+            "notes": "for the crust"
+          },
+          {
+            "item": "icing sugar",
+            "amount": "450g (1 packet, typically 16 oz)",
+            "notes": "for the filling"
+          },
+          {
+            "item": "cream cheese, softened",
+            "amount": "225g (8 oz block)",
+            "notes": "for the filling"
+          },
+          {
+            "item": "butter, softened",
+            "amount": "114g (1/2 cup)",
+            "notes": "for the filling"
+          },
+          {
+            "item": "large eggs",
+            "amount": "2",
+            "notes": "for the filling"
+          },
+          {
+            "item": "vanilla extract",
+            "amount": "5ml (1 teaspoon)",
+            "notes": "for the filling"
+          }
+        ],
+        "method": [
+          "Step 1: Preheat the oven to 180°C (350°F). Lightly grease a 23x33cm (9x13 inch) baking tin.",
+          "Step 2 (Crust): In a large bowl, combine the yellow cake mix (427g), 1 large egg, and melted butter (114g). Mix until well combined and a crumbly dough forms. Press the mixture evenly into the bottom of the prepared baking tin.",
+          "Step 3 (Filling): In a separate large bowl, combine the icing sugar (450g), softened cream cheese (225g), softened butter (114g), 2 large eggs, and vanilla extract (5ml). Beat with an electric mixer until the mixture is smooth and creamy.",
+          "Step 4 (Assemble & Bake): Pour the filling mixture evenly over the prepared crust.",
+          "Step 5 (Bake): Bake for 30-35 minutes, or until the edges are golden brown and the centre is set.",
+          "Step 6 (Cool): Allow to cool completely before cutting into squares and serving."
+        ],
+        "tips": [
+          "These squares are best served at room temperature or slightly chilled."
+        ],
+        "storage": {
+          "room_temp": "Store leftovers in an airtight container at room temperature for up to 3 days.",
+          "refrigerator": "Store leftovers in an airtight container in the refrigerator for up to a week.",
+          "freezer": "Chess squares can be frozen for longer storage in an airtight container."
+        },
+        "equipment": [
+          "23x33cm (9x13 inch) baking tin",
+          "Large mixing bowls (2)",
+          "Electric mixer"
+        ],
+        "notes": [
+          "The recipe uses specific packet sizes for cake mix (15.25 ounces) and powdered sugar (16 ounces), which have been converted to their closest gram equivalents.",
+          "No specific variations were provided in the original recipe, but different cake mix flavours or added extracts could be used for customisation."
+        ]
       }
     ]
   }
