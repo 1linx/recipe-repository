@@ -5,21 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Recipe</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="theme.js"></script>
     <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        primary: '#2c5f2d',
-                        secondary: '#97bc62',
-                    }
-                }
-            }
-        }
+        tailwind.config = themeConfig;
     </script>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans leading-relaxed">
+<body class="bg-gray-50 text-gray-800 font-sans leading-relaxed flex flex-col min-h-screen">
     <header class="bg-primary text-white py-8 mb-8">
         <div class="max-w-7xl mx-auto px-5">
             <nav>
@@ -28,15 +20,15 @@
         </div>
     </header>
 
-    <main class="max-w-7xl mx-auto px-5">
+    <main class="max-w-7xl mx-auto px-5 flex-grow">
         <article id="recipe-detail" class="max-w-4xl mx-auto">
             <!-- Recipe details will be loaded here by JavaScript -->
         </article>
     </main>
 
-    <footer class="bg-primary text-white text-center py-6 mt-16">
+    <footer class="bg-primary text-white text-center py-6 mt-auto">
         <div class="max-w-7xl mx-auto px-5">
-            <p>&copy; 2024 Recipe Collection</p>
+            <p>&copy; 2025 Recipe Collection</p>
         </div>
     </footer>
 

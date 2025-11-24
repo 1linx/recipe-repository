@@ -48,7 +48,7 @@ function createRecipeCard(recipe) {
         <div class="text-gray-600 text-sm mb-4">
             ${metaInfo.map(info => `<span class="inline-block mr-4">${info}</span>`).join('')}
         </div>
-        ${recipe.source ? `<p class="italic mb-4"><em>Source: ${recipe.source}</em></p>` : ''}
+        ${recipe.source ? `<p class="italic mb-4"><em>Source: <a href="${recipe.source_link}">${recipe.source}</a></em></p>` : ''}
         ${dietaryTags ? `<div class="flex flex-wrap gap-2 mt-auto">${dietaryTags}</div>` : ''}
     `;
 

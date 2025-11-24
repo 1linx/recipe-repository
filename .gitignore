@@ -18,7 +18,7 @@
 node_modules/
 .claude
 .github
-CLAME.md
+CLAUDE.md
 
 # Package lock files (keeping package.json for dev server setup)
 package-lock.json

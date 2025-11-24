@@ -4,8 +4,8 @@
   "description": "Static recipe website with UK measurements",
   "private": true,
   "scripts": {
-    "dev": "npx serve -p 8000",
-    "start": "npx serve -p 8000"
+    "dev": "python3 -m http.server 8000",
+    "start": "python3 -m http.server 8000"
   },
   "keywords": [
     "recipes"
