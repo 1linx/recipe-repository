@@ -16,3 +16,11 @@
 
 # Other
 node_modules/
+.claude
+.github
+CLAME.md
+
+# Package lock files (keeping package.json for dev server setup)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

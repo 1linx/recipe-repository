@@ -4,25 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Recipe</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2c5f2d',
+                        secondary: '#97bc62',
+                    }
+                }
+            }
+        }
+    </script>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-    <header>
-        <div class="container">
+<body class="bg-gray-50 text-gray-800 font-sans leading-relaxed">
+    <header class="bg-primary text-white py-8 mb-8">
+        <div class="max-w-7xl mx-auto px-5">
             <nav>
-                <a href="index.html" class="back-link">&larr; Back to all recipes</a>
+                <a href="index.html" class="inline-block py-2 text-white text-lg no-underline hover:opacity-80 transition-opacity">&larr; Back to all recipes</a>
             </nav>
         </div>
     </header>
 
-    <main class="container">
-        <article id="recipe-detail" class="recipe-detail">
+    <main class="max-w-7xl mx-auto px-5">
+        <article id="recipe-detail" class="max-w-4xl mx-auto">
             <!-- Recipe details will be loaded here by JavaScript -->
         </article>
     </main>
 
-    <footer>
-        <div class="container">
+    <footer class="bg-primary text-white text-center py-6 mt-16">
+        <div class="max-w-7xl mx-auto px-5">
             <p>&copy; 2024 Recipe Collection</p>
         </div>
     </footer>
