@@ -778,6 +778,125 @@
           "The recipe uses specific packet sizes for cake mix (15.25 ounces) and powdered sugar (16 ounces), which have been converted to their closest gram equivalents.",
           "No specific variations were provided in the original recipe, but different cake mix flavours or added extracts could be used for customisation."
         ]
+      },
+      {
+        "id": 10,
+        "name": "Chicken Pithivier",
+        "source": "James Martin Chef",
+        "source_link": "https://www.jamesmartinchef.co.uk/recipes/chicken-pithivier/",
+        "cook_time": "20 to 25 minutes",
+        "bake_time": "20 to 25 minutes",
+        "servings": 2,
+        "oven_temp": "210°C (410°F)",
+        "tin_size": "12cm (4.7-inch) and 16cm (6.3-inch) circles (for pastry)",
+        "ingredients": {
+          "main_filling": [
+            {
+              "item": "hispi cabbage leaves",
+              "amount": "4"
+            },
+            {
+              "item": "chicken breast",
+              "amount": "200g",
+              "notes": "sliced"
+            },
+            {
+              "item": "wild garlic",
+              "amount": "a few sprigs"
+            },
+            {
+              "item": "mixed mushrooms",
+              "amount": "100g"
+            },
+            {
+              "item": "olive oil",
+              "amount": "1 tablespoon"
+            }
+          ],
+          "farce": [
+            {
+              "item": "chicken breast",
+              "amount": "200g"
+            },
+            {
+              "item": "trompet mushrooms",
+              "amount": "25g"
+            },
+            {
+              "item": "double cream",
+              "amount": "50ml"
+            },
+            {
+              "item": "salt",
+              "amount": "to taste"
+            },
+            {
+              "item": "pepper",
+              "amount": "to taste"
+            }
+          ],
+          "pastry": [
+            {
+              "item": "all-butter pastry",
+              "amount": "200g",
+              "notes": "ready-rolled"
+            },
+            {
+              "item": "egg yolk",
+              "amount": "1"
+            }
+          ],
+          "sauce": [
+            {
+              "item": "chicken stock",
+              "amount": "200ml"
+            },
+            {
+              "item": "Madeira wine",
+              "amount": "25ml"
+            },
+            {
+              "item": "Dijon mustard",
+              "amount": "1 teaspoon"
+            },
+            {
+              "item": "grain mustard",
+              "amount": "1 teaspoon"
+            },
+            {
+              "item": "double cream",
+              "amount": "25ml"
+            },
+            {
+              "item": "butter",
+              "amount": "a knob"
+            },
+            {
+              "item": "salt",
+              "amount": "to taste"
+            },
+            {
+              "item": "pepper",
+              "amount": "to taste"
+            }
+          ]
+        },
+        "method": {
+          "preparation": [
+            "Preheat the oven to 210°C (410°F).",
+            "Blitz the chicken breast (200g, for the farce) and double cream (50ml, for the farce) together. Season with salt and pepper (to taste) and place into a piping bag.",
+            "Blanch the hispi cabbage leaves (4) in boiling salted water for 1 minute, then drain and pat dry.",
+            "Sauté the mixed mushrooms (100g) and trompet mushrooms (25g, for the farce) in a little olive oil (1 tablespoon) for 2 minutes, then cool."
+          ],
+          "assemble_pithiviers": [
+            "Oil two teacups, then line each with cling film. Pop the blanched hispi cabbage leaves in each one, then layer up the prepared farce, the sliced chicken breast (200g), the sautéed mixed mushrooms and trompet mushrooms, and a few sprigs of wild garlic, seasoning each layer with salt and pepper (to taste). Fold the cabbage over to make a parcel.",
+            "From the ready-rolled all-butter pastry (200g), cut two 12cm (4.7-inch) circles and two 16cm (6.3-inch) circles.",
+            "Place the two smaller pastry circles onto a lined baking tray. Top each with a chicken pithivier parcel, then cover with the two larger pastry circles. Press down to seal, using the larger cutter to neaten the edges if desired. Coat with the egg yolk (1) and bake for 20 to 25 minutes. Rest for 3 to 4 minutes."
+          ],
+          "make_sauce": [
+            "To make the sauce, add the chicken stock (200ml) and Madeira wine (25ml) to a pan. Bring to the boil and reduce by half. Finish with double cream (25ml), a knob of butter, Dijon mustard (1 teaspoon), and grain mustard (1 teaspoon). Season with salt and pepper (to taste)."
+          ]
+        }
       }
     ]
   }
